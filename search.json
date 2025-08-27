@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, I am Divya\n\nA bit about me\n\n\n\n\n\n\nDetail-oriented Banking and Finance professional with 5 years of experience across retail and corporate banking—specializing in account maintenance, billing operations, and accounts payable. Recognized for exceptional customer service and delivering tailored solutions. Strong in AML/KYC compliance, risk management, and audit readiness. Adept at process improvement, workflow optimization, and cross-functional collaboration. Proficient in Data Analytics (Python, MySQL) and CRM tools, translating financial data into actionable insights that support business performance and strategic objectives.\n\n\nCareer Timeline\n\n\nMBA, University Canada West — 2024–Present · Vancouver, Canada\n\n\nCustomer Service & Operations Sr. Analyst, NatWest Group — 2019–2024 · Chennai, India\n\n\nAP Analyst (Accounts Payable), Accenture — 2018–2019 · Chennai, India\n\n\nB.Com (Bank Management), Madras University — 2015-2018 . Chennai, India"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "MBA Student Portfolio",
+    "section": "About Me",
+    "text": "About Me\nI am an MBA student at University Canada West with a background in banking, finance, and customer service. With five years of professional experience in backend banking operations and customer service at NatWest Group and Accenture Solutions, I bring a deep understanding of financial processes, risk mitigation, and compliance. I am certified in data analytics and passionate about applying technology and strategy to improve customer experience and operational excellence."
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Customer Service90%\n\n\n\n\n\n\n\n\n\nAML / KYC90%\n\n\n\n\n\n\n\n\n\nExcel & Reporting85%\n\n\n\n\n\n\n\n\n\nPython70%\n\n\n\n\n\n\n\n\n\nMySQL75%"
+  },
+  {
+    "objectID": "skills.html#core-skills",
+    "href": "skills.html#core-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Customer Service & Relationship Management\n\n\nBanking Operations & Account Management\n\n\nBilling Operations & Accounts Payable\n\n\nAML/KYC & Risk Mitigation\n\n\nAudit Support & Documentation\n\n\nProcess Improvement & Operational Excellence\n\n\nPython\n\n\nMySQL\n\n\nExcel & Reporting\n\n\nCRM Applications\n\n\nCollaboration & Problem-Solving"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills & Certifications",
+    "section": "Certifications",
+    "text": "Certifications\n\nData Analytics — Great Learnings (2023) — Analytics with Python & MySQL applied to financial workflows.\n\nPython (Basics) — HackerRank (2023)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "✉️ Email 📞 Call 🔗 LinkedIn 📄 View Resume\n\nPhone: +1 (236) 862-3079\nEmail: divyaprabha241026@gmail.com\nLinkedIn: linkedin.com/in/divyaprabha-palani"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "✉️ Email 📞 Call 🔗 LinkedIn 📄 View Resume\n\nPhone: +1 (236) 862-3079\nEmail: divyaprabha241026@gmail.com\nLinkedIn: linkedin.com/in/divyaprabha-palani"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "💳 Enhancing Customer Experience & Digital Banking Adoption — NatWest Group\n\n\n\nImproved adoption of digital & self-serve banking platforms by 25%.\n\n\nNeeds-based conversations and cross-sell opportunities for everyday banking & credit cards.\n\n\nReferral framework to specialist teams reduced turnaround time for financial solutions.\n\n\nDigital guidance workshops ensured consistent education on mobile/online features.\n\n\n\nOutcome: +15% customer satisfaction; contributed to branch business growth objectives.\n\n\n\n\n🔒 Strengthening Risk & Compliance Controls in Branch Operations — NatWest Group\n\n\n\nChecklist aligned with AML/KYC for compliant branch transactions.\n\n\nReported suspicious activity to compliance; reduced financial & reputational risk.\n\n\nStandardized documentation across onboarding, billing, and account maintenance.\n\n\nPartnered with RMs and ops to reduce exceptions by 18%.\n\n\n\nOutcome: Passed internal audits with zero findings."
+  },
+  {
+    "objectID": "skills.html#core-skills-snapshot",
+    "href": "skills.html#core-skills-snapshot",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Customer Service90%\n\n\n\n\n\n\n\n\n\nAML / KYC90%\n\n\n\n\n\n\n\n\n\nExcel & Reporting85%\n\n\n\n\n\n\n\n\n\nPython70%\n\n\n\n\n\n\n\n\n\nMySQL75%"
+  },
+  {
+    "objectID": "skills.html#additional-strengths",
+    "href": "skills.html#additional-strengths",
+    "title": "Skills & Certifications",
+    "section": "Additional Strengths",
+    "text": "Additional Strengths\n\nProcess Improvement\n\n\nRisk Mitigation\n\n\nAudit Readiness\n\n\nCRM & Documentation\n\n\nCross-team Collaboration"
+  },
+  {
+    "objectID": "indexx.html",
+    "href": "indexx.html",
+    "title": "Home",
+    "section": "",
+    "text": "&lt;h1&gt;Hello, I'm Divya&lt;/h1&gt;\n&lt;p&gt;MBA candidate at UCW, ex-NatWest & Accenture, customer operations and finance professional exploring AI-enabled business and sustainable housing.&lt;/p&gt;\n&lt;div class=\"cards\"&gt;\n  &lt;div class=\"card\"&gt;\n    &lt;h3&gt;Career Timeline&lt;/h3&gt;\n    &lt;ul class=\"timeline\"&gt;\n      &lt;li&gt;MBA, University Canada West&lt;/li&gt;\n      &lt;li&gt;Customer Service & Ops – NatWest Group&lt;/li&gt;\n      &lt;li&gt;AP Analyst – Accenture Solutions India&lt;/li&gt;\n      &lt;li&gt;B.Com (Bank Management) – Madras University&lt;/li&gt;\n    &lt;/ul&gt;\n  &lt;/div&gt;\n  &lt;div class=\"card\"&gt;\n    &lt;h3&gt;Resume&lt;/h3&gt;\n    &lt;p&gt;Open a PDF copy of my resume.&lt;/p&gt;\n    &lt;a class=\"btn\" href=\"docs/Divya_Resume.pdf\" target=\"_blank\" rel=\"noopener\"&gt;Open Resume&lt;/a&gt;\n  &lt;/div&gt;\n  &lt;div class=\"card\"&gt;\n    &lt;h3&gt;Current Focus&lt;/h3&gt;\n    &lt;span class=\"badge\"&gt;Co-op Housing Strategy&lt;/span&gt;\n    &lt;span class=\"badge\"&gt;AI in Business&lt;/span&gt;\n    &lt;span class=\"badge\"&gt;Customer Analytics&lt;/span&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+  }
+]
