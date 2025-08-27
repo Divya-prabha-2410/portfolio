@@ -1,0 +1,48 @@
+---
+title: "Home"
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    page-layout: full
+    toc: false
+---
+<style>
+.hero, .profile-image, .section {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: rise-bright .85s ease-out forwards !important;
+}
+.section:nth-of-type(1) { animation-delay: .10s; }
+.section:nth-of-type(2) { animation-delay: .22s; }
+.section:nth-of-type(3) { animation-delay: .34s; }
+.section:nth-of-type(4) { animation-delay: .46s; }
+@keyframes rise-bright {
+  0%   { opacity: 0; transform: translateY(30px); filter: brightness(.8); }
+  60%  { opacity: 1; transform: translateY(-4px); filter: brightness(1.18); }
+  100% { opacity: 1; transform: translateY(0);    filter: brightness(1); }
+}
+</style>
+
+::: hero
+# Hello, I am Divya
+<p class="lead">A bit about me</p>
+:::
+
+<div class="profile-image">
+  <img src="img/divya.jpg" alt="Profile picture of Divya Prabha Palani">
+</div>
+
+<div class="section">
+Detail-oriented Banking and Finance professional with 5 years of experience across retail and corporate banking—specializing in account maintenance, billing operations, and accounts payable. Recognized for exceptional customer service and delivering tailored solutions. Strong in AML/KYC compliance, risk management, and audit readiness. Adept at process improvement, workflow optimization, and cross-functional collaboration. Proficient in Data Analytics (Python, MySQL) and CRM tools, translating financial data into actionable insights that support business performance and strategic objectives.
+</div>
+
+<div class="section">
+### Career Timeline
+<div class="timeline">
+  <div class="item"><strong>MBA, University Canada West</strong> — 2024–Present · Vancouver, Canada</div>
+  <div class="item"><strong>Customer Service & Operations Sr. Analyst, NatWest Group</strong> — 2019–2024 · Chennai, India</div>
+  <div class="item"><strong>AP Analyst (Accounts Payable), Accenture</strong> — 2018–2019 · Chennai, India</div>
+  <div class="item"><strong>B.Com (Bank Management), Madras University</strong> — 2015-2018 . Chennai, India</div>
+</div>
+</div>

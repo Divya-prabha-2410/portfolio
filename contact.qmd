@@ -1,0 +1,22 @@
+
+---
+title: "Contact"
+format:
+  html:
+    theme: superhero
+    css: styles.css
+---
+
+<div class="section">
+## Get in touch
+<div class="btn-row">
+  <a class="btn-chip" href="mailto:divyaprabha241026@gmail.com">✉️ Email</a>
+  <a class="btn-chip" href="tel:+12368623079">📞 Call</a>
+  <a class="btn-chip" href="https://www.linkedin.com/in/divyaprabha-palani" target="_blank">🔗 LinkedIn</a>
+  <a class="btn-chip" href="docs/Divya_Resume.pdf" target="_blank">📄 View Resume</a>
+</div>
+
+**Phone:** +1 (236) 862-3079  
+**Email:** <a href="mailto:divyaprabha241026@gmail.com">divyaprabha241026@gmail.com</a>  
+**LinkedIn:** <a href="https://www.linkedin.com/in/divyaprabha-palani" target="_blank">linkedin.com/in/divyaprabha-palani</a>
+</div>

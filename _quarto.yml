@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Divya Prabha Palani"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Skills & Certifications
+        href: skills.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - href: docs/Divya_Resume.pdf
+        text: "View Resume"
+        target: _blank
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: false
+    page-layout: full
+    embed-resources: true
+    self-contained: true
+
+# Force-copy the PDF into the built site so the link always works
+resources:
+  - docs/Divya_Resume.pdf

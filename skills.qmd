@@ -1,0 +1,48 @@
+
+---
+title: "Skills & Certifications"
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+---
+
+<div class="section">
+## Core Skills (Snapshot)
+<div class="skill-bar">
+  <div class="label"><span>Customer Service</span><span>90%</span></div>
+  <div class="bar"><div class="fill" style="width:90%"></div></div>
+</div>
+<div class="skill-bar">
+  <div class="label"><span>AML / KYC</span><span>90%</span></div>
+  <div class="bar"><div class="fill" style="width:90%"></div></div>
+</div>
+<div class="skill-bar">
+  <div class="label"><span>Excel & Reporting</span><span>85%</span></div>
+  <div class="bar"><div class="fill" style="width:85%"></div></div>
+</div>
+<div class="skill-bar">
+  <div class="label"><span>Python</span><span>70%</span></div>
+  <div class="bar"><div class="fill" style="width:70%"></div></div>
+</div>
+<div class="skill-bar">
+  <div class="label"><span>MySQL</span><span>75%</span></div>
+  <div class="bar"><div class="fill" style="width:75%"></div></div>
+</div>
+</div>
+
+<div class="section">
+## Certifications
+- **Data Analytics — Great Learnings (2023)** — Analytics with Python & MySQL applied to financial workflows.  
+- **Python (Basics) — HackerRank (2023)**
+</div>
+
+<div class="section">
+## Additional Strengths
+<div class="badge">Process Improvement</div>
+<div class="badge">Risk Mitigation</div>
+<div class="badge">Audit Readiness</div>
+<div class="badge">CRM & Documentation</div>
+<div class="badge">Cross-team Collaboration</div>
+</div>

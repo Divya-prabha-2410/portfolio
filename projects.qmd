@@ -1,0 +1,30 @@
+---
+title: "Projects"
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+---
+
+<div class="card">
+<h3>💳 Enhancing Customer Experience & Digital Banking Adoption — NatWest Group</h3>
+<ul>
+  <li>Improved adoption of digital & self-serve banking platforms by <strong>25%</strong>.</li>
+  <li>Needs-based conversations and cross-sell opportunities for everyday banking & credit cards.</li>
+  <li>Referral framework to specialist teams reduced turnaround time for financial solutions.</li>
+  <li>Digital guidance workshops ensured consistent education on mobile/online features.</li>
+</ul>
+<p><strong>Outcome:</strong> +15% customer satisfaction; contributed to branch business growth objectives.</p>
+</div>
+
+<div class="card">
+<h3>🔒 Strengthening Risk & Compliance Controls in Branch Operations — NatWest Group</h3>
+<ul>
+  <li>Checklist aligned with <strong>AML/KYC</strong> for compliant branch transactions.</li>
+  <li>Reported suspicious activity to compliance; reduced financial & reputational risk.</li>
+  <li>Standardized documentation across onboarding, billing, and account maintenance.</li>
+  <li>Partnered with RMs and ops to reduce exceptions by <strong>18%</strong>.</li>
+</ul>
+<p><strong>Outcome:</strong> Passed internal audits with <strong>zero findings</strong>.</p>
+</div>
